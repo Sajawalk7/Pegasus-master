@@ -921,6 +921,7 @@ margin-bottom: 60px;
     width: 100%;
 }
 
+
 .first-section2 .custom-container .HEADERS{
  background-color: #191d24;
 }
@@ -1158,27 +1159,66 @@ font-family: UniSansCAPS;
    background-color: #191d24;
 
 }
-
+.Second-section .picture1{
+ background-image: linear-gradient(#ffc1075e, rgba(255, 193, 7, 0.22)),  url(../Assets/doctorwithhourse.jpg); 
+ background-repeat: no-repeat;
+background-size: cover;
+background-position: center; 
+height: 312px; 
+}
+.Second-section .picture2{
+ background-image: url(../Assets/whitehourse.jpg); 
+ background-repeat: no-repeat;
+background-size: cover;
+background-position: center;  
+height: 312px; 
+}
+.Second-section .picture3{
+ background-image: url(../Assets/695128.jpg); 
+ background-repeat: no-repeat;
+background-size: cover;
+background-position: center;  
+height: 312px; 
+}
+.Second-section .picture4{
+ background-image: url(../Assets/straight-egyptian-arabians-horse.jpg); 
+ background-repeat: no-repeat;
+background-size: cover; 
+background-position: center; 
+height: 312px; 
+}
+.Second-section .picture5{
+ background-image: url(../Assets/345446.jpg); 
+ background-repeat: no-repeat;
+background-size: cover; 
+background-position: center; 
+height: 312px; 
+}
+.Second-section .picture6{
+ background-image: url(../Assets/British-Horse-Racing-Frankel-Jockey-Wallpaper.jpg); 
+ background-repeat: no-repeat;
+background-size: cover; 
+background-position: center; 
+height: 312px; 
+}
+.Second-section .picture7{
+ background-image: url(../Assets/hourse.jpg); 
+ background-repeat: no-repeat;
+background-size: cover; 
+height: 312px; 
+background-position: center; 
+}
+.Second-section .picture8{
+ background-image: linear-gradient(#ffc1075e, rgba(255, 193, 7, 0.22)), url(../Assets/whitehourse.jpg); 
+ background-repeat: no-repeat;
+background-size: cover; 
+background-position: center; 
+height: 312px; 
+}
 
 .Second-section .image-container {
   position: relative;
   width: 50%;
-}
-.Second-section .image-container .image-overlay{
-  background-color: rgba(239, 184, 23, 0.3);
-  top: 0px;
-  right: 0px;
-  left: 0px;
-  bottom: 0px;
-  position: absolute;
-  width: 337px;
-}
-
-.Second-section .image-container .image {
-  display: block;
-  max-width: 337px;
-  min-height: 312px;
-
 }
 
 .Second-section .image-container .overlay {
@@ -1386,7 +1426,9 @@ background-color: #191d24;
     width: 100%;
     background-position: right;
 }
-
+.first-section4 .HEADERS .col-7 img{
+    height: 0px;
+}
 .first-section4 .custom-container .HEADERS{
 background-color: #191d24;
 }
@@ -1554,6 +1596,7 @@ font-family: UniSansCAPS;
 .first-section4 .yellow-section .image-margin .view-text1{
   position: absolute;
   margin-left: 8%;
+  margin-top: 18px;
 }
 .first-section4 .yellow-section .image-margin .view-text1 h1{
 font-family: UniSansCAPS;
@@ -1642,7 +1685,7 @@ font-family: UniSansCAPS;
     
 }
 .first-section5 .image-section{
-  background: linear-gradient(rgba(8, 7, 7, 0.72), rgba(10, 9, 9, 0.8)), url(../Assets/donkey.png);
+  background: linear-gradient(rgba(8, 7, 7, 0.72), rgba(10, 9, 9, 0.8)), url(../Assets/donkey.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;

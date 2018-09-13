@@ -244,6 +244,11 @@
      .first-section .HEADERS .col-7 img{
         height: 50px;
      }
+     .first-section .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
+     }
      .first-section .fourth-row .learnmore-header{
         width: 84%;
      }
@@ -255,28 +260,28 @@
      }
      /*first section END*/
      /*second section START*/
-     .second-section .PTL-PEGASUS span{
+     .second-section1 .PTL-PEGASUS span{
           font-size: 30px;
      }
-     .second-section .PTL-PEGASUS p{
+     .second-section1 .PTL-PEGASUS p{
             font-size: 26px;
             padding-top: 6px;
      }
-     .second-section .image-container .image34{
+     .second-section1 .image-container .image34{
         width: 100%;
         margin-left: 0px;
      }
 
      /*second section END*/
       /*third section START*/
-    .third-section .PTC-PEGASUS span{
+    .third-section1 .PTC-PEGASUS span{
        font-size: 30px;
     }
-   .third-section .PTC-PEGASUS p{
+   .third-section1 .PTC-PEGASUS p{
         font-size: 24px;
         padding-top: 6px;
     }
-    .third-section .image-container .image34{
+    .third-section1 .image-container .image34{
         width: 100%;
     }
      /*third section END*/
@@ -285,50 +290,82 @@
 
     /*==================== page product Det responsive START ======================*/
      /*first section START*/
-     .first-section{
+     .first-section2{
         background-size: 100% 100%;
         height: auto;
      }
-     .first-section .third-row .header-text p{
+     .first-section2 .third-row .header-text p{
         font-size: 12vw;
      }
      .header-image .head-img1{
       width: 100%;
       margin-top: 20%;
      }
-     .first-section .text-area{
-        margin-top: 37%;
+     .first-section2 .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
      }
-     
-     .first-section .fourth-row .learnmore-header{
+     .first-section2 .header-text{
+        margin-top: 31%;
+     }
+     .first-section2 .SPECIFICATIONS p{
+        font-size: 14px;
+     }
+     .first-section2 .fourth-row .learnmore-header p{
+        font-size: 15px;
+     }
+     .first-section2 .fourth-row .learnmore-header .button{
+        float: none;
+     }
+     .Second-section .image-container .image {
+      display: block;
+      max-width: 297px;
+     /* min-height: 312px; */
+    }
+    .Second-section .image-container .image-overlay{
+      width: 296px;
+    }
+     .first-section2 .header-image{
+        padding-top: 64%;
+     }
+     .first-section2 .text-area{
+        margin-top: 60%;
+     }
+     .first-section2 .yellow-section{
+        height: 1204px;
+     }
+     .first-section2 .fourth-row .learnmore-header{
         padding-left: 0px;
      }
-     .first-section .fourth-row .learnmore-header .button{
+     .first-section2 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
      }
-     .first-section .fourth-row .learnmore-header a{
+     .first-section2 .fourth-row .learnmore-header a{
         margin-top: 20px;
         font-size: 7px;
      }
      /*first section END*/
      /*second section START*/
-     .first-section .yellow-section{
+     .first-section2n .yellow-section{
         height: 100%;
         padding-bottom: 41%;
      }
-    
-     .first-section .yellow-section .image-margin h1{
+     .first-section2 .yellow-section .image-margin img{
+        width: 100%;
+     }
+     .first-section2 .yellow-section .image-margin h1{
         font-size: 24px;
         line-height: 27px;
      }
-     .first-section .yellow-section .image-margin p{
+     .first-section2 .yellow-section .image-margin p{
         font-size: 10px;
      }
-     .first-section .yellow-section .image-margin {
+     .first-section2 .yellow-section .image-margin {
     margin-top: 209px;
      }
-     .first-section .yellow-section .prodct{
+     .first-section2 .yellow-section .prodct{
         font-size: 20vw;
         margin-top: 25%;
         font-weight: 900;
@@ -355,16 +392,16 @@
     /*=============================== page product Det responsive END ========================*/
 
     /*=============================== page Media Det responsive START ==========================*/
-    .first-section .year .quarter span{
+    .first-section5 .year .quarter span{
         font-size: 30px;
     }
-    .first-section .year .quarter p{
+    .first-section5 .year .quarter p{
         font-size: 30px;
     }
-    .first-section .year .video-icon{
+    .first-section5 .year .video-icon{
         margin: 32% 0 0 57%;
     }
-    .first-section .second-row{
+    .first-section5 .second-row{
         padding-top: 1px;
         height: auto;
     }
@@ -395,75 +432,118 @@
 
   /*======================== page Media Det responsive END ======================*/
    /*======================== page Text Det responsive START ======================*/
-   .first-section {
+   .first-section3 {
     background-size: cover;
     height: auto;
    }
-    .first-section .second-row {
+    .first-section3 .second-row {
     background-color: #191d24;
     height: auto;
     padding-top: 1px;
     }
-    .first-section .text-area {
+    .first-section3 .HEADERS .col-7 img{
+        height: 50px;
+    }
+    .first-section3 .header-text {
+    padding-top: 47px;
+   }
+    .first-section3 .fourth-row .learnmore-header{
+        padding-left: 0px;
+        margin-top: -105px;
+    }
+    .first-section3 .text-area {
     margin-top: 37%;
     }
-    .first-section .fourth-row .learnmore-header a {
+    .first-section3 .fourth-row .learnmore-header a {
     margin-top: 20px;
     font-size: 8px;
     }
-    .first-section .header-text p{
-    font-size: 26px;
+    .first-section3 .header-text p{
+    font-size: 22px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section3 .fourth-row .learnmore-header .button{
     margin: 0px;
     display: flex;
     flex-direction: column;
+    float: none;
     }
-    .first-section .fourth-row .learnmore-header{
-        padding-left: 0px;
-    }
-    .first-section .PROFILE{
+
+    .first-section3 .PROFILE{
         padding-top: 0px;
     }
-    .first-section .PROFILE p{
+    .first-section3 .PROFILE p{
         font-size: 15px;
     }
-    .first-section .PROFILE h1{
+    .first-section3 .PROFILE h1{
         font-size: 26px;
     }
 
     /*======================== page Text Det responsive END ======================*/
 
     /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     .first-section4 .fourth-row .about h1{
         font-size: 22vw;
      }
-     .first-section .yellow-section .image-margin .img-pegasus{
+     .first-section4 .yellow-section .image-margin .img-pegasus{
         width: 100%;
      }
-     .first-section .second-row {
+     .first-section4 .HEADERS .col-7 img{
+     height: 50px;
+    }
+    .first-section4 .PROFILE h1{
+        font-size: 24px;
+    }
+    .first-section4 .PROFILE p{
+        font-size: 15px;
+    }
+    .first-section4 .fourth-row .learnmore-header{
+        padding-left: 0px;
+    }
+    .first-section4 .fourth-row .learnmore-header a{
+        padding: 14px 24px;
+    }
+     .first-section4 .second-row {
       background-color: #17191d;
       height: auto;
       padding-top: 1px;
     }
-   
-    .first-section .yellow-section .prodct{
-        font-size: 21vw;
-    
+    .first-section4 .yellow-section{
+        min-height: 1580px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    padding-top: 62%;
+    }
+    .first-section4 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
     }
-    .first-section .fourth-row .learnmore-header a{
+    .first-section4 .fourth-row .learnmore-header a{
         margin: 20px;
        font-size: 8px;
     }
-     .first-section .yellow-section .image-margin .view-text1 h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
+        font-size: 27px;
+        line-height: 27px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text h1{
+        font-size: 27px;
+        line-height: 27px;
+     }
+     .first-section4 .yellow-section .image-margin .view-text1 p{
+        font-size: 10px;
+        width: 130px;
+        padding: 6px 20px;
+     }
+     .first-section4 .yellow-section .view-text{
+        margin-left: 0px;
+     }
+     .first-section4 .yellow-section .image-margin p{
+        font-size: 10px;
+        
+     }
+     .first-section4 .yellow-section .image-margin{
+        padding-top: 25%;
      }
     /*======================== page Text Land responsive END ======================*/
 }
@@ -711,6 +791,11 @@
      .first-section .HEADERS .col-7 img{
         height: 50px;
      }
+     .first-section .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
+     }
      .first-section .fourth-row .learnmore-header{
         width: 84%;
      }
@@ -722,28 +807,28 @@
      }
      /*first section END*/
      /*second section START*/
-     .second-section .PTL-PEGASUS span{
+     .second-section1 .PTL-PEGASUS span{
           font-size: 30px;
      }
-     .second-section .PTL-PEGASUS p{
+     .second-section1 .PTL-PEGASUS p{
             font-size: 26px;
             padding-top: 6px;
      }
-     .second-section .image-container .image34{
+     .second-section1 .image-container .image34{
         width: 100%;
         margin-left: 0px;
      }
 
      /*second section END*/
       /*third section START*/
-    .third-section .PTC-PEGASUS span{
+    .third-section1 .PTC-PEGASUS span{
        font-size: 30px;
     }
-   .third-section .PTC-PEGASUS p{
+   .third-section1 .PTC-PEGASUS p{
         font-size: 24px;
         padding-top: 6px;
     }
-    .third-section .image-container .image34{
+    .third-section1 .image-container .image34{
         width: 100%;
     }
      /*third section END*/
@@ -752,51 +837,82 @@
 
      /*==================== page product Det responsive START ======================*/
      /*first section START*/
-     .first-section{
+     .first-section2{
         background-size: 100% 100%;
         height: auto;
      }
-     .first-section .third-row .header-text p{
+     .first-section2 .third-row .header-text p{
         font-size: 12vw;
      }
      .header-image .head-img1{
       width: 100%;
       margin-top: 20%;
      }
-     .first-section .text-area{
-        margin-top: 37%;
+     .first-section2 .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
      }
-     .first-section .fourth-row .learnmore-header{
+     .first-section2 .header-text{
+        margin-top: 31%;
+     }
+     .first-section2 .SPECIFICATIONS p{
+        font-size: 14px;
+     }
+     .first-section2 .fourth-row .learnmore-header p{
+        font-size: 15px;
+     }
+     .first-section2 .fourth-row .learnmore-header .button{
+        float: none;
+     }
+     .Second-section .image-container .image {
+      display: block;
+      max-width: 297px;
+     /* min-height: 312px; */
+    }
+    .Second-section .image-container .image-overlay{
+      width: 296px;
+    }
+     .first-section2 .header-image{
+        padding-top: 64%;
+     }
+     .first-section2 .text-area{
+        margin-top: 60%;
+     }
+     .first-section2 .yellow-section{
+        height: 1204px;
+     }
+     .first-section2 .fourth-row .learnmore-header{
         padding-left: 0px;
      }
-     .first-section .fourth-row .learnmore-header .button{
+     .first-section2 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
      }
-     .first-section .fourth-row .learnmore-header a{
+     .first-section2 .fourth-row .learnmore-header a{
         margin-top: 20px;
         font-size: 7px;
      }
      /*first section END*/
      /*second section START*/
-     .first-section .yellow-section{
+     .first-section2n .yellow-section{
         height: 100%;
         padding-bottom: 41%;
      }
-     .first-section .yellow-section .image-margin img{
+     .first-section2 .yellow-section .image-margin img{
         width: 100%;
      }
-     .first-section .yellow-section .image-margin h1{
+     .first-section2 .yellow-section .image-margin h1{
         font-size: 24px;
         line-height: 27px;
      }
-     .first-section .yellow-section .image-margin p{
+     .first-section2 .yellow-section .image-margin p{
         font-size: 10px;
      }
-     .first-section .yellow-section .image-margin {
+     .first-section2 .yellow-section .image-margin {
     margin-top: 209px;
      }
-     .first-section .yellow-section .prodct{
+     .first-section2 .yellow-section .prodct{
         font-size: 20vw;
         margin-top: 25%;
         font-weight: 900;
@@ -824,13 +940,13 @@
 
 
     /*===========================page Media Det responsive START================================*/
-    .first-section .year .quarter span{
+    .first-section5 .year .quarter span{
         font-size: 30px;
     }
-    .first-section .year .quarter p{
+    .first-section5 .year .quarter p{
         font-size: 30px;
     }
-    .first-section .year .video-icon{
+    .first-section5 .year .video-icon{
         margin: 32% 0 0 57%;
     }
     .second-section .fourth-row .learnmore-header .button{
@@ -857,61 +973,111 @@
 
       /* =============================page Media Det responsive END =========================*/
         /*======================== page Text Det responsive START ======================*/
-   .first-section {
+   .first-section3 {
     background-size: cover;
     height: auto;
    }
-    .first-section .second-row {
+   .first-section3 .HEADERS .col-7 img{
+        height: 50px;
+    }
+    .first-section3 .header-text {
+    padding-top: 47px;
+   }
+    .first-section3 .fourth-row .learnmore-header{
+        padding-left: 0px;
+        margin-top: -105px;
+    }
+    .first-section3 .second-row {
     background-color: #191d24;
     height: auto;
     padding-top: 1px;
     }
-    .first-section .text-area {
+    .first-section3 .text-area {
     margin-top: 8%;
     }
-    .first-section .fourth-row .learnmore-header a {
+    .first-section3 .fourth-row .learnmore-header a {
     margin-top: 20px;
     font-size: 8px;
     }
-    .first-section .header-text p{
+    .first-section3 .header-text p{
     font-size: 26px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section3 .fourth-row .learnmore-header .button{
     margin: 0px;
     display: flex;
     flex-direction: column;
+    float: none;
     }
-    .first-section .fourth-row .learnmore-header{
+    .first-section3 .fourth-row .learnmore-header{
         padding-left: 0px;
     }
 
     /*======================== page Text Det responsive END ======================*/
 
-    /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     /*======================== page Text Land responsive START ======================*/
+     .first-section4 .fourth-row .about h1{
         font-size: 22vw;
      }
-     .first-section .yellow-section .image-margin .img-pegasus{
+     .first-section4 .yellow-section .image-margin .img-pegasus{
         width: 100%;
      }
-     .first-section .second-row {
+     .first-section4 .HEADERS .col-7 img{
+     height: 50px;
+    }
+    .first-section4 .PROFILE h1{
+        font-size: 24px;
+    }
+    .first-section4 .PROFILE p{
+        font-size: 15px;
+    }
+    .first-section4 .fourth-row .learnmore-header{
+        padding-left: 0px;
+    }
+    .first-section4 .fourth-row .learnmore-header a{
+        padding: 14px 24px;
+    }
+     .first-section4 .second-row {
       background-color: #17191d;
       height: auto;
       padding-top: 1px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section4 .yellow-section{
+        min-height: 1580px;
+    }
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    padding-top: 62%;
+    }
+    .first-section4 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
     }
-    .first-section .fourth-row .learnmore-header a{
+    .first-section4 .fourth-row .learnmore-header a{
         margin: 20px;
        font-size: 8px;
     }
-     .first-section .yellow-section .image-margin .view-text1 h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
+        font-size: 27px;
+        line-height: 27px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text h1{
+        font-size: 27px;
+        line-height: 27px;
+     }
+     .first-section4 .yellow-section .image-margin .view-text1 p{
+        font-size: 10px;
+        width: 130px;
+        padding: 6px 20px;
+     }
+     .first-section4 .yellow-section .view-text{
+        margin-left: 0px;
+     }
+     .first-section4 .yellow-section .image-margin p{
+        font-size: 10px;
+        
+     }
+     .first-section4 .yellow-section .image-margin{
+        padding-top: 25%;
      }
     /*======================== page Text Land responsive END ======================*/
 }
@@ -1160,6 +1326,11 @@
      .first-section .HEADERS .col-7 img{
         height: 50px;
      }
+     .first-section .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
+     }
      .first-section .fourth-row .learnmore-header{
         width: 84%;
      }
@@ -1171,80 +1342,111 @@
      }
      /*first section END*/
      /*second section START*/
-     .second-section .PTL-PEGASUS span{
+     .second-section1 .PTL-PEGASUS span{
           font-size: 30px;
      }
-     .second-section .PTL-PEGASUS p{
+     .second-section1 .PTL-PEGASUS p{
             font-size: 26px;
             padding-top: 6px;
      }
-     .second-section .image-container .image34{
+     .second-section1 .image-container .image34{
         width: 100%;
         margin-left: 0px;
      }
 
      /*second section END*/
       /*third section START*/
-    .third-section .PTC-PEGASUS span{
+    .third-section1 .PTC-PEGASUS span{
        font-size: 30px;
     }
-   .third-section .PTC-PEGASUS p{
+   .third-section1 .PTC-PEGASUS p{
         font-size: 24px;
         padding-top: 6px;
     }
-    .third-section .image-container .image34{
+    .third-section1 .image-container .image34{
         width: 100%;
     }
      /*third section END*/
     
     /*=============================== page product cat responsive END ========================*/
-     /*==================== page product Det responsive START ======================*/
+    /*==================== page product Det responsive START ======================*/
      /*first section START*/
-     .first-section{
+     .first-section2{
         background-size: 100% 100%;
         height: auto;
      }
-     .first-section .third-row .header-text p{
+     .first-section2 .third-row .header-text p{
         font-size: 12vw;
      }
      .header-image .head-img1{
       width: 100%;
       margin-top: 20%;
      }
-     .first-section .text-area{
-        margin-top: 37%;
+     .first-section2 .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
      }
-     .first-section .fourth-row .learnmore-header{
+     .first-section2 .header-text{
+        margin-top: 31%;
+     }
+     .first-section2 .SPECIFICATIONS p{
+        font-size: 14px;
+     }
+     .first-section2 .fourth-row .learnmore-header p{
+        font-size: 15px;
+     }
+     .first-section2 .fourth-row .learnmore-header .button{
+        float: none;
+     }
+     .Second-section .image-container .image {
+      display: block;
+      max-width: 297px;
+     /* min-height: 312px; */
+    }
+    .Second-section .image-container .image-overlay{
+      width: 296px;
+    }
+     .first-section2 .header-image{
+        padding-top: 64%;
+     }
+     .first-section2 .text-area{
+        margin-top: 60%;
+     }
+     .first-section2 .yellow-section{
+        height: 1204px;
+     }
+     .first-section2 .fourth-row .learnmore-header{
         padding-left: 0px;
      }
-     .first-section .fourth-row .learnmore-header .button{
+     .first-section2 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
      }
-     .first-section .fourth-row .learnmore-header a{
+     .first-section2 .fourth-row .learnmore-header a{
         margin-top: 20px;
         font-size: 7px;
      }
      /*first section END*/
      /*second section START*/
-     .first-section .yellow-section{
+     .first-section2n .yellow-section{
         height: 100%;
         padding-bottom: 41%;
      }
-     .first-section .yellow-section .image-margin img{
+     .first-section2 .yellow-section .image-margin img{
         width: 100%;
      }
-     .first-section .yellow-section .image-margin h1{
+     .first-section2 .yellow-section .image-margin h1{
         font-size: 24px;
         line-height: 27px;
      }
-     .first-section .yellow-section .image-margin p{
+     .first-section2 .yellow-section .image-margin p{
         font-size: 10px;
      }
-     .first-section .yellow-section .image-margin {
+     .first-section2 .yellow-section .image-margin {
     margin-top: 209px;
      }
-     .first-section .yellow-section .prodct{
+     .first-section2 .yellow-section .prodct{
         font-size: 20vw;
         margin-top: 25%;
         font-weight: 900;
@@ -1273,13 +1475,13 @@
 
 
     /*=======================page Media Det responsive START===========================*/
-    .first-section .year .quarter span{
+    .first-section5 .year .quarter span{
         font-size: 30px;
     }
-    .first-section .year .quarter p{
+    .first-section5 .year .quarter p{
         font-size: 30px;
     }
-    .first-section .year .video-icon{
+    .first-section5 .year .video-icon{
         margin: 32% 0 0 57%;
     }
     .second-section .fourth-row .learnmore-header .button{
@@ -1306,61 +1508,111 @@
 
       /*========================page Media Det responsive END =======================*/
         /*======================== page Text Det responsive START ======================*/
-   .first-section {
+   .first-section3 {
     background-size: cover;
     height: auto;
    }
-    .first-section .second-row {
+   .first-section3 .HEADERS .col-7 img{
+        height: 50px;
+    }
+    .first-section3 .header-text {
+    padding-top: 47px;
+   }
+    .first-section3 .fourth-row .learnmore-header{
+        padding-left: 0px;
+        margin-top: -105px;
+    }
+    .first-section3 .second-row {
     background-color: #191d24;
     height: auto;
     padding-top: 1px;
     }
-    .first-section .text-area {
+    .first-section3 .text-area {
     margin-top: 8%;
     }
-    .first-section .fourth-row .learnmore-header a {
+    .first-section3 .fourth-row .learnmore-header a {
     margin-top: 20px;
     font-size: 8px;
     }
-    .first-section .header-text p{
+    .first-section3 .header-text p{
     font-size: 26px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section3 .fourth-row .learnmore-header .button{
     margin: 0px;
     display: flex;
     flex-direction: column;
+    float: none;
     }
-    .first-section .fourth-row .learnmore-header{
+    .first-section3 .fourth-row .learnmore-header{
         padding-left: 0px;
     }
 
     /*======================== page Text Det responsive END ======================*/
 
     /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     .first-section4 .fourth-row .about h1{
         font-size: 22vw;
      }
-     .first-section .yellow-section .image-margin .img-pegasus{
+     .first-section4 .yellow-section .image-margin .img-pegasus{
         width: 100%;
      }
-     .first-section .second-row {
+     .first-section4 .HEADERS .col-7 img{
+     height: 50px;
+    }
+    .first-section4 .PROFILE h1{
+        font-size: 24px;
+    }
+    .first-section4 .PROFILE p{
+        font-size: 15px;
+    }
+    .first-section4 .fourth-row .learnmore-header{
+        padding-left: 0px;
+    }
+    .first-section4 .fourth-row .learnmore-header a{
+        padding: 14px 24px;
+    }
+     .first-section4 .second-row {
       background-color: #17191d;
       height: auto;
       padding-top: 1px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section4 .yellow-section{
+        min-height: 1580px;
+    }
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    padding-top: 62%;
+    }
+    .first-section4 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
     }
-    .first-section .fourth-row .learnmore-header a{
+    .first-section4 .fourth-row .learnmore-header a{
         margin: 20px;
        font-size: 8px;
     }
-     .first-section .yellow-section .image-margin .view-text1 h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
+        font-size: 27px;
+        line-height: 27px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text h1{
+        font-size: 27px;
+        line-height: 27px;
+     }
+     .first-section4 .yellow-section .image-margin .view-text1 p{
+        font-size: 10px;
+        width: 130px;
+        padding: 6px 20px;
+     }
+     .first-section4 .yellow-section .view-text{
+        margin-left: 0px;
+     }
+     .first-section4 .yellow-section .image-margin p{
+        font-size: 10px;
+        
+     }
+     .first-section4 .yellow-section .image-margin{
+        padding-top: 25%;
      }
     /*======================== page Text Land responsive END ======================*/
 }
@@ -1608,6 +1860,11 @@
      .first-section .HEADERS .col-7 img{
         height: 50px;
      }
+     .first-section .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
+     }
      .first-section .fourth-row .learnmore-header{
         width: 84%;
      }
@@ -1619,92 +1876,145 @@
      }
      /*first section END*/
      /*second section START*/
-     .second-section .PTL-PEGASUS span{
+     .second-section1 .PTL-PEGASUS span{
           font-size: 30px;
      }
-     .second-section .PTL-PEGASUS p{
+     .second-section1 .PTL-PEGASUS p{
             font-size: 26px;
             padding-top: 6px;
      }
-     .second-section .image-container .image34{
+     .second-section1 .image-container .image34{
         width: 100%;
         margin-left: 0px;
      }
 
      /*second section END*/
       /*third section START*/
-    .third-section .PTC-PEGASUS span{
+    .third-section1 .PTC-PEGASUS span{
        font-size: 30px;
     }
-   .third-section .PTC-PEGASUS p{
+   .third-section1 .PTC-PEGASUS p{
         font-size: 24px;
         padding-top: 6px;
     }
-    .third-section .image-container .image34{
+    .third-section1 .image-container .image34{
         width: 100%;
     }
      /*third section END*/
     
     /*=============================== page product cat responsive END ========================*/
 
-    /*==================== page product Det responsive START ======================*/
+   /*==================== page product Det responsive START ======================*/
      /*first section START*/
-     .first-section .yellow-section{
-        height: 633px;
+     .first-section2{
+        background-size: 100% 100%;
+        height: auto;
      }
-     .first-section .yellow-section .view-area{
-        margin-top: 9%;
+     .first-section2 .third-row .header-text p{
+        font-size: 12vw;
      }
-     .first-section .header-image{
-        margin-top: 10%;
+     .header-image .head-img1{
+      width: 100%;
+      margin-top: 20%;
      }
-     .first-section .text-area{
+     .first-section2 .second-row{
+        height: auto;
+        padding-top: 1px;
+        background-color: #191d24;
+     }
+     .first-section2 .header-text{
         margin-top: 31%;
      }
-     .first-section .fourth-row .learnmore-header a{
-        padding: 14px 18px;
-     }
-     .first-section .SPECIFICATIONS h1{
-        font-size: 24px;
-     }
-     .first-section .SPECIFICATIONS p{
+     .first-section2 .SPECIFICATIONS p{
         font-size: 14px;
      }
-     .first-section .fourth-row .learnmore-header p{
-         font-size: 14px;
+     .first-section2 .fourth-row .learnmore-header p{
+        font-size: 15px;
+     }
+     .first-section2 .fourth-row .learnmore-header .button{
+        float: none;
+     }
+     .Second-section .image-container .image {
+      display: block;
+      max-width: 297px;
+     /* min-height: 312px; */
+    }
+    .Second-section .image-container .image-overlay{
+      width: 296px;
+    }
+     .first-section2 .header-image{
+        padding-top: 64%;
+     }
+     .first-section2 .text-area{
+        margin-top: 60%;
+     }
+     .first-section2 .yellow-section{
+        height: 1204px;
+     }
+     .first-section2 .fourth-row .learnmore-header{
+        padding-left: 0px;
+     }
+     .first-section2 .fourth-row .learnmore-header .button{
+        display: flex;
+        flex-direction: column;
+     }
+     .first-section2 .fourth-row .learnmore-header a{
+        margin-top: 20px;
+        font-size: 7px;
      }
      /*first section END*/
      /*second section START*/
-     .first-section .yellow-section .image-margin img {
-        width: 271px;
-        height: 257px;
-        margin-left: -62px;
-      }
-      .first-section .yellow-section .image-margin h1{
-        font-size: 18px;
-        line-height: 1.50;
-      }
-      .first-section .yellow-section .image-margin p{
-        font-size: 9px;
-      }
-      .first-section .yellow-section .prodct{
-        font-size: 21vw;
-        padding-top: 28%;
-      }
-
+     .first-section2n .yellow-section{
+        height: 100%;
+        padding-bottom: 41%;
+     }
+     .first-section2 .yellow-section .image-margin img{
+        width: 100%;
+     }
+     .first-section2 .yellow-section .image-margin h1{
+        font-size: 24px;
+        line-height: 27px;
+     }
+     .first-section2 .yellow-section .image-margin p{
+        font-size: 10px;
+     }
+     .first-section2 .yellow-section .image-margin {
+    margin-top: 209px;
+     }
+     .first-section2 .yellow-section .prodct{
+        font-size: 20vw;
+        margin-top: 25%;
+        font-weight: 900;
+     }
+    
 
      /*second section END*/
-     
+      .Second-section .image-container .image {
+    
+
+    }
+    .Second-section .image-container .overlay{
+        width: 260px;
+        height: 260px;
+        margin-left: 10px;
+    }
+    .Second-section .image-container .text h5{
+        font-size: 36px;
+    }
+   .Second-section .image-container{
+      margin: 5px 20px;
+    }
+     /*third section END*/
     /*=============================== page product Det responsive END ========================*/
 
       /*=======================page Media Det responsive START===========================*/
-    .first-section .year .quarter span{
+    .first-section5 .year .quarter span{
         font-size: 30px;
     }
-    .first-section .year .quarter p{
+    .first-section5 .year .quarter p{
         font-size: 30px;
     }
-    .first-section .year .video-icon{
+    .first-section5 .year .video-icon{
         margin: 32% 0 0 57%;
     }
     .second-section .fourth-row .learnmore-header .button{
@@ -1731,61 +2041,111 @@
 
       /*========================page Media Det responsive END =======================*/
         /*======================== page Text Det responsive START ======================*/
-   .first-section {
+   .first-section3 {
     background-size: cover;
     height: auto;
    }
-    .first-section .second-row {
+   .first-section3 .HEADERS .col-7 img{
+        height: 50px;
+    }
+    .first-section3 .header-text {
+    padding-top: 47px;
+   }
+    .first-section3 .fourth-row .learnmore-header{
+        padding-left: 0px;
+        margin-top: -105px;
+    }
+    .first-section3 .second-row {
     background-color: #191d24;
     height: auto;
     padding-top: 1px;
     }
-    .first-section .text-area {
+    .first-section3 .text-area {
     margin-top: 8%;
     }
-    .first-section .fourth-row .learnmore-header a {
+    .first-section3 .fourth-row .learnmore-header a {
     margin-top: 20px;
     font-size: 8px;
     }
-    .first-section .header-text p{
+    .first-section3 .header-text p{
     font-size: 26px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section3 .fourth-row .learnmore-header .button{
     margin: 0px;
     display: flex;
     flex-direction: column;
+    float: none;
     }
-    .first-section .fourth-row .learnmore-header{
+    .first-section3 .fourth-row .learnmore-header{
         padding-left: 0px;
     }
 
     /*======================== page Text Det responsive END ======================*/
 
-    /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     /*======================== page Text Land responsive START ======================*/
+     .first-section4 .fourth-row .about h1{
         font-size: 22vw;
      }
-     .first-section .yellow-section .image-margin .img-pegasus{
+     .first-section4 .yellow-section .image-margin .img-pegasus{
         width: 100%;
      }
-     .first-section .second-row {
+     .first-section4 .HEADERS .col-7 img{
+     height: 50px;
+    }
+    .first-section4 .PROFILE h1{
+        font-size: 24px;
+    }
+    .first-section4 .PROFILE p{
+        font-size: 15px;
+    }
+    .first-section4 .fourth-row .learnmore-header{
+        padding-left: 0px;
+    }
+    .first-section4 .fourth-row .learnmore-header a{
+        padding: 14px 24px;
+    }
+     .first-section4 .second-row {
       background-color: #17191d;
       height: auto;
       padding-top: 1px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section4 .yellow-section{
+        min-height: 1580px;
+    }
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    padding-top: 62%;
+    }
+    .first-section4 .fourth-row .learnmore-header .button{
         display: flex;
         flex-direction: column;
     }
-    .first-section .fourth-row .learnmore-header a{
+    .first-section4 .fourth-row .learnmore-header a{
         margin: 20px;
        font-size: 8px;
     }
-     .first-section .yellow-section .image-margin .view-text1 h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
+        font-size: 27px;
+        line-height: 27px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
-        font-size: 26px;
+     .first-section4 .yellow-section .image-margin .view-text h1{
+        font-size: 27px;
+        line-height: 27px;
+     }
+     .first-section4 .yellow-section .image-margin .view-text1 p{
+        font-size: 10px;
+        width: 130px;
+        padding: 6px 20px;
+     }
+     .first-section4 .yellow-section .view-text{
+        margin-left: 0px;
+     }
+     .first-section4 .yellow-section .image-margin p{
+        font-size: 10px;
+        
+     }
+     .first-section4 .yellow-section .image-margin{
+        padding-top: 25%;
      }
     /*======================== page Text Land responsive END ======================*/
 
@@ -2057,67 +2417,70 @@
     /*footer:END*/
 
     /*====================== page product cat START=======================*/
-    .second-section .image-container .image34{
+    .second-section1 .image-container .image34{
       width: 100%;
       margin-left: 0px;
     }
-    .second-section .PTL-PEGASUS p{
+    .second-section1 .PTL-PEGASUS p{
        font-size: 50px;
     }
-    .second-section .PTL-PEGASUS span{
+    .second-section1 .PTL-PEGASUS span{
         font-size: 50px
     }
-    .third-section .PTC-PEGASUS span{
+    .third-section1 .PTC-PEGASUS span{
         font-size: 50px
     }
-    .third-section .PTC-PEGASUS p{
+    .third-section1 .PTC-PEGASUS p{
         font-size: 50px
     }
 
     /*====================== page product cat END =======================*/
      /*==================== page product Det responsive START ======================*/
      /*first section START*/
-     .first-section .header-image{
-        margin-top: 10%;
+     .first-section2 .header-image{
+        margin-top: 20%;
      }
-     .first-section .text-area{
-        margin-top: 31%;
+     .first-section2 .text-area{
+        margin-top: 42%;
      }
-     .first-section .fourth-row .learnmore-header a{
+     .first-section2 .header-text{
+        margin-top: 20%;
+     }
+     .first-section2 .fourth-row .learnmore-header a{
         padding: 14px 18px;
      }
-     .first-section .SPECIFICATIONS h1{
+     .first-section2 .SPECIFICATIONS h1{
         font-size: 24px;
      }
-     .first-section .SPECIFICATIONS p{
+     .first-section2 .SPECIFICATIONS p{
         font-size: 14px;
      }
-     .first-section .fourth-row .learnmore-header p{
+     .first-section2 .fourth-row .learnmore-header p{
          font-size: 14px;
      }
      /*first section END*/
      /*second section START*/
-     .first-section .yellow-section{
+     .first-section2 .yellow-section{
         height: 633px;
      }
-     .first-section .yellow-section .view-area{
+     .first-section2 .yellow-section .view-area{
         margin-top: 9%;
      }
-     .first-section .yellow-section .image-margin img {
+     .first-section2 .yellow-section .image-margin img {
         width: 271px;
         height: 257px;
         margin-left: -62px;
       }
-      .first-section .yellow-section .image-margin h1{
+      .first-section2 .yellow-section .image-margin h1{
         font-size: 18px;
         line-height: 1.50;
       }
-      .first-section .yellow-section .image-margin p{
+      .first-section2 .yellow-section .image-margin p{
         font-size: 9px;
       }
-      .first-section .yellow-section .prodct{
+      .first-section2 .yellow-section .prodct{
         font-size: 21vw;
-        padding-top: 28%;
+        padding-top: 21%;
       }
 
      /*second section END*/
@@ -2126,36 +2489,42 @@
       /*======================== page Text Det responsive START ======================*/
   
     
-    .first-section .fourth-row .learnmore-header a {
+    .first-section3 .fourth-row .learnmore-header a {
     margin-top: 20px;
     font-size: 8px;
     }
 
-    .first-section .header-text p{
+    .first-section3 .header-text p{
     font-size: 26px;
     }
-    .first-section .fourth-row .learnmore-header .button{
+    .first-section3 .fourth-row .learnmore-header .button{
     margin: 0px;
     display: flex;
     flex-direction: column;
+    float: none;
     }
 
     /*======================== page Text Det responsive END ======================*/
 
     /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     .first-section4 .fourth-row .about h1{
         font-size: 21vw;
      }
-     .first-section .yellow-section .image-margin .img-pegasus{
-        width: 100%;
+     
+     .first-section4 .yellow-section .image-margin .img-pegasus{
+      height: 182px;
+      width: 240px;
      }
-     .first-section .yellow-section .image-margin .view-text1 h1{
+     .first-section4 .yellow-section .image-margin img{
+        height: 195px
+     }
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
         font-size: 16px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
+     .first-section4 .yellow-section .image-margin .view-text h1{
         font-size: 16px;
      }
-     .first-section .fourth-row .learnmore-header .button {
+     .first-section4 .fourth-row .learnmore-header .button {
        margin: 41px;
     }
     .section-four .requestitbro p{
@@ -2168,13 +2537,50 @@
         width: 100%;
         margin-left: 0px;
     }
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    }
+    .first-section4 .yellow-section{
+        height: 464px;
+    }
     .second-section .fourth-row .learnmore-header .button{
         display: flex;
     }
     .second-section .fourth-row .learnmore-header a{
-        font-size: 8px;
+        font-size: 10px;
+        padding: 10px 16px;
     }
+    .first-section4 .fourth-row .learnmore-header a{
+         font-size: 10px;
+        padding: 8px 17px;
+    }
+
     /*======================== page Text Land responsive END ======================*/
+
+    /*======================== page Media Det responsive START ======================*/
+    .first-section5 .year {
+       margin-top: 44%;
+    }
+    .first-section5 .year .quarter span{
+        font-size: 30px;
+    }
+    .first-section5 .year .quarter p{
+        font-size: 30px;
+    }
+    .second-section .LASER-THREAT h1{
+        font-size: 28px;
+    }
+    .second-section .LASER-THREAT p{
+        font-size: 12px;
+    }
+    .second-section .fourth-row .learnmore-header p{
+        font-size: 12px;
+    }
+    .third-section .PTL-PEGASUS p{
+        font-size: 50px;
+    }
+
+    /*======================== page Media Det responsive END ======================*/
 }
 @media (max-width: 1023px) and (min-width: 992px){
 
@@ -2443,97 +2849,148 @@
     /*footer:END*/
 
     /*====================== page product cat START=======================*/
-    .second-section .image-container .image34{
+    .second-section1 .image-container .image34{
       width: 100%;
       margin-left: 0px;
     }
-    .second-section .PTL-PEGASUS p{
+    .second-section1 .PTL-PEGASUS p{
        font-size: 50px;
     }
-    .second-section .PTL-PEGASUS span{
+    .second-section1 .PTL-PEGASUS span{
         font-size: 50px
     }
-    .third-section .PTC-PEGASUS span{
+    .third-section1 .PTC-PEGASUS span{
         font-size: 50px
     }
-    .third-section .PTC-PEGASUS p{
+    .third-section1 .PTC-PEGASUS p{
         font-size: 50px
     }
 
     /*====================== page product cat END =======================*/
      /*==================== page product Det responsive START ======================*/
      /*first section START*/
-     .first-section .header-image{
-        margin-top: 10%;
+     .first-section2 .header-image{
+        margin-top: 20%;
      }
-     .first-section .text-area{
-        margin-top: 31%;
+     .first-section2 .text-area{
+        margin-top: 42%;
      }
-     .first-section .fourth-row .learnmore-header a{
+     .first-section2 .header-text{
+        margin-top: 20%;
+     }
+     .first-section2 .fourth-row .learnmore-header a{
         padding: 14px 18px;
      }
-     .first-section .SPECIFICATIONS h1{
+     .first-section2 .SPECIFICATIONS h1{
         font-size: 24px;
      }
-     .first-section .SPECIFICATIONS p{
+     .first-section2 .SPECIFICATIONS p{
         font-size: 14px;
      }
-     .first-section .fourth-row .learnmore-header p{
+     .first-section2 .fourth-row .learnmore-header p{
          font-size: 14px;
      }
      /*first section END*/
      /*second section START*/
-     .first-section .yellow-section{
+     .first-section2 .yellow-section{
         height: 633px;
      }
-     .first-section .yellow-section .view-area{
+     .first-section2 .yellow-section .view-area{
         margin-top: 9%;
      }
-     .first-section .yellow-section .image-margin img {
+     .first-section2 .yellow-section .image-margin img {
         width: 271px;
         height: 257px;
         margin-left: -62px;
       }
-      .first-section .yellow-section .image-margin h1{
+      .first-section2 .yellow-section .image-margin h1{
         font-size: 18px;
         line-height: 1.50;
       }
-      .first-section .yellow-section .image-margin p{
+      .first-section2 .yellow-section .image-margin p{
         font-size: 9px;
       }
-      .first-section .yellow-section .prodct{
+      .first-section2 .yellow-section .prodct{
         font-size: 21vw;
-        padding-top: 28%;
+        padding-top: 21%;
       }
+
+     /*second section END*/
+     
+    /*=============================== page product Det responsive END ========================*/
     /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     .first-section4 .fourth-row .about h1{
         font-size: 21vw;
      }
-     .first-section .second-row {
-      background-color: #17191d;
-      height: auto;
-      padding-top: 1px;
-     }
-     .first-section .yellow-section .image-margin .img-pegasus{
+     .first-section4 .yellow-section .image-margin .img-pegasus{
         width: 100%;
      }
-     .first-section .yellow-section .image-margin .view-text1 h1{
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
         font-size: 16px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
+     .first-section4 .yellow-section .image-margin .view-text h1{
         font-size: 16px;
      }
-     .first-section .fourth-row .learnmore-header .button {
+     .first-section4 .fourth-row .learnmore-header .button {
        margin: 41px;
     }
     .section-four .requestitbro p{
         padding-top: 182px;
     }
-    
+    .second-section .fourth-row .BENEFITS h1{
+        font-size: 21vw;
+    }
+    .third-section .image-container .image34{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    }
+    .first-section4 .yellow-section .image-margin img{
+        width: 100%;
+    }
+    .second-section .fourth-row .learnmore-header .button{
+        display: flex;
+    }
+    .second-section .fourth-row .learnmore-header a{
+        font-size: 8px;
+    }
+    .first-section4 .fourth-row .learnmore-header a{
+         font-size: 10px;
+        padding: 8px 17px;
+    }
+
     /*======================== page Text Land responsive END ======================*/
      /*second section END*/
+
+
+    /*======================== page Media Det responsive START ======================*/
+    .first-section5 .year {
+       margin-top: 44%;
+    }
+    .first-section5 .year .quarter span{
+        font-size: 30px;
+    }
+    .first-section5 .year .quarter p{
+        font-size: 30px;
+    }
+    .second-section .LASER-THREAT h1{
+        font-size: 28px;
+    }
+    .second-section .LASER-THREAT p{
+        font-size: 12px;
+    }
+    .second-section .fourth-row .learnmore-header p{
+        font-size: 12px;
+    }
+    .third-section .PTL-PEGASUS p{
+        font-size: 50px;
+    }
+
+    /*======================== page Media Det responsive END ======================*/
      
-    /*=============================== page product Det responsive END ========================*/
+    
 }
 @media (max-width: 1199px) and (min-width: 1024px){
 
@@ -2802,55 +3259,137 @@
     /*footer:END*/
 
     /*====================== page product cat START=======================*/
-    .second-section .image-container .image34{
+    .second-section1 .image-container .image34{
       width: 100%;
       margin-left: 0px;
     }
     
-   .first-section .yellow-section .prodct{
+   .first-section1 .yellow-section .prodct{
     font-size: 20vw;
    }
-   .first-section .yellow-section .image-margin h1{
+   .first-section1 .yellow-section .image-margin h1{
     font-size: 28px;
    }
-   .Second-section .image-container .image {
+   .Second-section1 .image-container .image {
     
 }
-.Second-section .image-container .overlay{
+.Second-section1 .image-container .overlay{
     width: 225px;
     height: 255px;
 }
-.Second-section .image-container .text h5{
+.Second-section1 .image-container .text h5{
     font-size: 30px;
 }
     /*====================== page product cat END =======================*/
 
 /*======================== page Text Land responsive START ======================*/
-     .first-section .fourth-row .about h1{
+     .first-section4 .fourth-row .about h1{
         font-size: 21vw;
      }
-     .first-section .yellow-section .image-margin .img-pegasus{
+     .first-section4 .yellow-section .image-margin .img-pegasus{
         width: 100%;
      }
-     .first-section .second-row {
-      background-color: #17191d;
-      height: auto;
-      padding-top: 1px;
-    }
-     .first-section .yellow-section .image-margin .view-text1 h1{
-        font-size: 16px;
+     .first-section4 .yellow-section .image-margin .view-text1 h1{
+        font-size: 20px;
      }
-     .first-section .yellow-section .image-margin .view-text h1{
-        font-size: 16px;
+     .first-section4 .yellow-section .image-margin .view-text h1{
+        font-size: 20px;
      }
-     .first-section .fourth-row .learnmore-header .button {
+     .first-section4 .fourth-row .learnmore-header .button {
        margin: 41px;
     }
     .section-four .requestitbro p{
         padding-top: 182px;
     }
-    
+    .second-section .fourth-row .BENEFITS h1{
+        font-size: 21vw;
+    }
+    .third-section .image-container .image34{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .first-section4 .yellow-section .prodct{
+        font-size: 21vw;
+    }
+    .first-section4 .yellow-section .image-margin img{
+        width: 100%;
+    }
+    .second-section .fourth-row .learnmore-header .button{
+        display: flex;
+    }
+    .second-section .fourth-row .learnmore-header a{
+        font-size: 8px;
+    }
+    .first-section4 .fourth-row .learnmore-header a{
+         font-size: 10px;
+        
+    }
+
     /*======================== page Text Land responsive END ======================*/
+
+     /*==================== page product Det responsive START ======================*/
+     /*first section START*/
+     .first-section2 .header-image{
+        margin-top: 20%;
+     }
+     .first-section2 .text-area{
+        margin-top: 42%;
+     }
+     .first-section2 .header-text{
+        margin-top: 20%;
+     }
+     .first-section2 .fourth-row .learnmore-header a{
+        padding: 14px 18px;
+     }
+     .first-section2 .SPECIFICATIONS h1{
+        font-size: 24px;
+     }
+     .first-section2 .SPECIFICATIONS p{
+        font-size: 14px;
+     }
+     .first-section2 .fourth-row .learnmore-header p{
+         font-size: 14px;
+     }
+
+     .first-section2 .yellow-section .view-area{
+        margin-top: 9%;
+     }
+     .first-section2 .yellow-section .image-margin img {
+        width: 271px;
+        height: 257px;
+        margin-left: -62px;
+      }
+      .first-section2 .yellow-section .image-margin h1{
+        font-size: 18px;
+        line-height: 1.50;
+      }
+      .first-section2 .yellow-section .image-margin p{
+        font-size: 9px;
+      }
+      .first-section2 .yellow-section .prodct{
+        font-size: 20vw;
+        padding-top: 19%;
+      }
+      
+     /*first section END*/
+     /*second section START*/
+     
+      .Second-section .image-container .image{
+        width: 253px;
+      }
+      .Second-section .image-container .overlay{
+        width: 229px;
+      }
+      .Second-section .image-container .text h5{
+        font-size: 35px;
+      }
+      .Second-section .image-container .image-overlay{
+        width: 254px;
+      }
+
+     /*second section END*/
+     
+    /*=============================== page product Det responsive END ========================*/
 
     .second-section .fourth-row .BENEFITS h1{
         font-size: 21vw;
